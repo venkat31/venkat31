@@ -28,10 +28,4 @@ Cloud Engineer, DevOps Engineer, SRE
 
 <a href="http://www.github.com/venkat31"><img src="https://github-readme-stats.vercel.app/api?username=venkat31&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="venkat31's GitHub stats" /></a>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/abhilash"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 </ul>
