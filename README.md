@@ -1,6 +1,4 @@
 ### Hi there 👋 Myself Abhilash Bhattiprolu
-
-Hi 👋 My name is Venkat Abhilash
 ================================
 
 Cloud Engineer, DevOps Engineer, SRE
