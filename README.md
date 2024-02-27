@@ -1,9 +1,5 @@
 ### Hi there 👋 Myself Abhilash Bhattiprolu
 
-<!--
-**venkat31/venkat31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 Hi 👋 My name is Venkat Abhilash
 ================================
 
@@ -39,7 +35,3 @@ DevOps Engineer, SRE
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/abhilash"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
