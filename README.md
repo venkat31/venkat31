@@ -3,12 +3,12 @@
 Hi 👋 My name is Venkat Abhilash
 ================================
 
-DevOps Engineer, SRE
+Cloud Engineer, DevOps Engineer, SRE
 --------------------
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [vbhat847@gmail.com](mailto:vbhat847@gmail.com)
-* 🧠  I'm learning Managed Kubernetes Services
+* 🧠  I'm currently working with Managed Kubernetes Services, in DevOps Space...
 
 ### Skills
 
