@@ -10,6 +10,8 @@ Cloud Engineer, DevOps Engineer, SRE
 
 ### Skills
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,jenkins,gradle,grafana,linux,prometheus,py,ruby,vscode,&perline=3)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="(https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,jenkins,gradle,grafana,linux,prometheus,py,ruby,vscode,&perline=3)" />
